@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## 李宁
+#### （+86）18937372461
+#### happiers@163.com
+### 专业背景
+- 本科
+- 北华大学--计算机科学与技术
+- 大一获得校级一等奖学金
 
-You can use the [editor on GitHub](https://github.com/threelei/lining.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 技能
+- 熟悉C并会用C++map，reverse，sort，upper/lower_bound等基本函数
+- 掌握二分，bfs，dfs，前缀和，并查集，最小生成树，最短路等算法
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/threelei/lining.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 校园活动
+- 北华大学Acm战队队员：
+- 北华大学ACM实验室为本校优秀实验室，每天都有定时训练.
+- 参加东北电力学院和本校两次校赛均取得不错成绩
